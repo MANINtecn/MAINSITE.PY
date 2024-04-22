@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title= "Meu primeiro site em PY")
-
+st.set_page_config(page_title= "Meu primeiro site em PYTHONNNNNNNNNNN")
+st.write("Ola mundo, quebrando a rede com sites em PY")
 with st.container():#quando quizer separar os conteudos de cada div ou container e editar separadamente
 
     st.write("Ola mundo, quebrando a rede com sites em PY")# coloque qualer texto simples no site usando esse comando
